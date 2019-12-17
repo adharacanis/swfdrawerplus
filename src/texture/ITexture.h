@@ -1,0 +1,11 @@
+#ifndef WITHTHEBOOST_ITEXTURE_H
+#define WITHTHEBOOST_ITEXTURE_H
+
+
+class ITexture
+{
+
+};
+
+
+#endif //WITHTHEBOOST_ITEXTURE_H

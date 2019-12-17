@@ -1,0 +1,11 @@
+#ifndef WITHTHEBOOST_LOGGER_H
+#define WITHTHEBOOST_LOGGER_H
+
+
+class Logger
+{
+
+};
+
+
+#endif //WITHTHEBOOST_LOGGER_H
