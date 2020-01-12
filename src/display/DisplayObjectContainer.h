@@ -1,7 +1,10 @@
-#ifndef WITHTHEBOOST_DISPLAYOBJECTCONTAINER_H
-#define WITHTHEBOOST_DISPLAYOBJECTCONTAINER_H
+#pragma once
+
+#include <vector>
+#include <boost/smart_ptr/shared_ptr.hpp>
 
 #include "IUpdatable.h"
+#include "DisplayObject.h"
 
 class DisplayObjectContainer: public IUpdatable
 {
@@ -12,8 +15,7 @@ public:
     
     void update() override;
     
-    
+protected:
+    std::vector <boost::shared_ptr<DisplayObject>> m_displayObjects;
+	
 };
-
-
-#endif //WITHTHEBOOST_DISPLAYOBJECTCONTAINER_H

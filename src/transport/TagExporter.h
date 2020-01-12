@@ -2,10 +2,10 @@
 #define WITHTHEBOOST_TAGEXPORTER_H
 
 #include "PackerTagExporter.h"
-#include "ByteArray.h"
-#include "PackerTag.h"
 #include <map>
 #include <vector>
+#include "tags/PackerTag.h"
+#include "../utils/ByteArray.h"
 
 enum class ExporterTypes
 {

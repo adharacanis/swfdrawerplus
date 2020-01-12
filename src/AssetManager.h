@@ -1,10 +1,12 @@
 #ifndef WITHTHEBOOST_ASSETMANAGER_H
 #define WITHTHEBOOST_ASSETMANAGER_H
 
-#include "AtlasExporter.h"
-#include "TextureStorage.h"
-#include "TextureManager.h"
-#include "AssetLoader.h"
+#include "data/ShapeLibrary.h"
+#include "texture/TextureStorage.h"
+#include "renderer/TextureManager.h"
+#include "assets/AssetsStorage.h"
+#include "transport/AtlasExporter.h"
+#include "assets/AssetLoader.h"
 
 class AssetManager
 {

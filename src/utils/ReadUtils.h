@@ -1,14 +1,9 @@
-//
-
-
-//
 
 #ifndef WITHTHEBOOST_READUTILS_H
 #define WITHTHEBOOST_READUTILS_H
 
 #include <math.h>
 #include <iostream>
-#include "Rectangle.h"
 #include "ByteArray.h"
 
 static float FIXED_PRECISSION_VALUE = 65536;

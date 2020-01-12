@@ -1,7 +1,7 @@
 #ifndef WITHTHEBOOST_BYTEARRAY_H
 #define WITHTHEBOOST_BYTEARRAY_H
 
-#include "Bytes.h"
+#include "../Bytes.h"
 
 typedef unsigned short UByte;
 typedef short Byte;

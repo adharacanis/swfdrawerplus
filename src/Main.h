@@ -1,13 +1,8 @@
-#ifndef WITHTHEBOOST_MAIN_H
-#define WITHTHEBOOST_MAIN_H
-
-#include "ShapeListViewer.h"
+#pragma once
 
 class Main
 {
 public:
-    Main();
-    ~Main();
+    Main() = default;
+    ~Main() = default;
 };
-
-#endif //WITHTHEBOOST_BYTES_H

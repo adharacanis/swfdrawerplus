@@ -2,8 +2,8 @@
 #define WITHTHEBOOST_WINDOW_H
 
 #include "IUpdatable.h"
-#include "Stage.h"
-#include "DebugStage.h"
+#include "display/Stage.h"
+#include "debugDraw/DebugStage.h"
 
 class Window: public IUpdatable
 {

@@ -1,4 +1,5 @@
 #include "AssetManager.h"
+#include "utils/ByteArray.h"
 
 AssetManager::AssetManager(ShapeLibrary& shapesLibrary, TextureStorage& textureStorage, TextureManager& textureManager)
 : m_shapesLibrary(shapesLibrary)

@@ -1,6 +1,6 @@
 #include "ShapeLibraryItem.h"
 
-boost::shared_ptr<ShapeData> ShapeLibraryItem::getShapeData()
+boost::shared_ptr<Shape> ShapeLibraryItem::getShapeData()
 {
     return m_shapeData;
 }

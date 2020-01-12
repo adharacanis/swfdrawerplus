@@ -25,7 +25,7 @@ void Bytes::set(long index, unsigned char value)
 void Bytes::blit(unsigned long len, Bytes& src, unsigned long srcPos, unsigned long outPos)
 {
     //TODO: mb memcopy?
-    for(int i = 0; i < len; i++) {
+    for(unsigned long i = 0; i < len; i++) {
         set(i, src.get(srcPos + i));
     }
 }

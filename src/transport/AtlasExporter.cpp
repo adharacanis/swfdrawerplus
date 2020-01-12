@@ -1,10 +1,6 @@
 #include "AtlasExporter.h"
-#include "TextureSource.h"
-#include "Rectangle.h"
-#include "TextureTransform.h"
-#include "ReadUtils.h"
-
 #include <iostream>
+#include "../utils/ReadUtils.h"
 
 AtlasExporter::AtlasExporter()
 {
@@ -48,7 +44,7 @@ TextureSource<Bytes>* AtlasExporter::importAtlas(ByteArray& input, ShapeLibrary&
     
         TextureID textureID(id, atlasID);
         
-        auto shapeData = boost::shared_ptr<ShapeData>(new ShapeData(textureID, shapeBounds));
+        auto shapeData = boost::shared_ptr<Shape>(new Shape(textureID, shapeBounds));
         shapesList.addShape(shapeData);
     }
 

@@ -3,7 +3,7 @@
 
 using namespace std;
 
-boost::shared_ptr<ShapeData> ShapeLibrary::getShape(TextureID id)
+boost::shared_ptr<Shape> ShapeLibrary::getShape(TextureID id)
 {
     return m_shapes[id]->getShapeData();
 }
@@ -18,12 +18,12 @@ void ShapeLibrary::clear(bool clearChilds)
 
 }
 
-void ShapeLibrary::addShape(boost::shared_ptr<ShapeData> shapeData)
+void ShapeLibrary::addShape(boost::shared_ptr<Shape> shapeData)
 {
     //std::cout << "add shape " << int(shapeData.m_characterId) << std::endl;
     //auto shapeIterator = m_shapes.find(shapeData.m_characterId);
     //if (shapeIterator != m_shapes.end())
     //    return;
     auto shapeLibraryItem = boost::shared_ptr<ShapeLibraryItem>(new ShapeLibraryItem(shapeData));
-    m_shapes.insert(std::make_pair(shapeData->m_characterId, shapeLibraryItem));
+    m_shapes.insert(std::make_pair(shapeData->getCharacterID(), shapeLibraryItem));
 }

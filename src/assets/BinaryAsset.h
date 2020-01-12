@@ -1,7 +1,7 @@
 #ifndef WITHTHEBOOST_BINARYASSET_H
 #define WITHTHEBOOST_BINARYASSET_H
 
-#include "Bytes.h"
+#include "../Bytes.h"
 #include "Asset.h"
 
 class BinaryAsset: public Asset<Bytes>

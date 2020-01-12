@@ -1,10 +1,11 @@
 #include "DebugStage.h"
+#include <boost/make_shared.hpp>
 
 DebugStage::DebugStage()
-: m_shapeListViewer(m_shapeLibrary)
-, m_assetManager(m_shapeLibrary, m_textureStorage, m_textureManager)
+	: Stage(boost::make_shared<TextureStorage>(m_textureStorage))
+	, m_assetManager(m_shapeLibrary, m_textureStorage, m_textureManager)
 {
-    //initialize();
+	//initialize();
 }
 
 void DebugStage::initialize()

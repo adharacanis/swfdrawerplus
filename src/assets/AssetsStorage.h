@@ -19,7 +19,7 @@ public:
         std::cout << "copy constructor" << std::endl;
     };
     
-    AssetsStorage(const AssetsStorage&& other)
+    AssetsStorage(const AssetsStorage&& other) noexcept
     {
         std::cout << "move constructor" << std::endl;
     };

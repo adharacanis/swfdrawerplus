@@ -1,9 +1,9 @@
 #ifndef WITHTHEBOOST_ATLASEXPORTER_H
 #define WITHTHEBOOST_ATLASEXPORTER_H
 
-#include "ByteArray.h"
-#include "TextureSource.h"
-#include "ShapeLibrary.h"
+#include "..//TextureSource.h"
+#include "../utils/ByteArray.h"
+#include "../data/ShapeLibrary.h"
 
 class AtlasExporter
 {

@@ -96,7 +96,6 @@
       <change beforePath="$PROJECT_DIR$/WIthTheBoost.xcodeproj/xcuserdata/konstantink.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/swfdrawer.xcodeproj/xcuserdata/konstantink.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WIthTheBoost/main.cpp" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,183 +105,8 @@
     <option name="autoscrollToSource" value="true" />
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="macos_x86_64" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Window.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="e#41#61#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#17#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Window.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <element signature="e#61#84#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TextureSource.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oldmain.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-733" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.h">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/vector">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="939" column="1" selection-start-line="939" selection-start-column="1" selection-end-line="939" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="appcode.project-settings://ac9f2d4a">
-          <provider selected="true" editor-type-id="AppCode.ProjectSettings" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/include/GL/glew.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28950">
-              <caret line="1930" column="8" selection-start-line="1930" selection-start-column="8" selection-end-line="1930" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>read(</find>
-      <find>unsin</find>
-      <find>getSize</find>
-      <find>roundPixels20</find>
-      <find>typedef</find>
-      <find>createWindow</find>
-      <find>template</find>
-      <find>insert_lookup</find>
-      <find>using</find>
-      <find>template</find>
-      <find>Stage</find>
-      <find>stage</find>
-      <find>padding</find>
-      <find>update</find>
-      <find>std::move</find>
-      <find>success</find>
-      <find>EBO</find>
-      <find>VBO</find>
-      <find>VAO</find>
-      <find>glViewport</find>
-      <find>uniformL</find>
-      <find>glGetUniformLocation</find>
-      <find>shader</find>
-      <find>klement</find>
-      <find>//.*klementiev.*</find>
-      <find>// Created by Konstantin Klementiev on 2019-02-02.</find>
-      <find>// Copyright (c) 2019 Konstantin Klementiev. All rights reserved.</find>
-      <find>// Created by Konstantin Klementiev on.*</find>
-      <find>// Copyright .*</find>
-      <find>//</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/WIthTheBoost/transport/DefineSpriteExporter.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/transport/SymbolClassExporter.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/transport/tags/PackerTag.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/transport/TagExporter.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/transport/TagExporter.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/GlobalTypes.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/utils/ReadUtils.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/Types.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/display/IUpdatable.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/display/DisplayObjectContainer.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/display/DisplayObjectContainer.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/Main.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/Main.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/display/Stage.h" />
-        <option value="$PROJECT_DIR$/Window.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/texture/TextureStorage.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/texture/TextureStorage.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/renderer/TextureManager.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/assets/BinaryAsset.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/assets/Asset.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/transport/AtlasExporter.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/debugDraw/DebugStage.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/assets/AssetLoader.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/assets/AssetsStorage.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/assets/AssetsStorage.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/assets/AssetLoader.h" />
-        <option value="$PROJECT_DIR$/AssetManager.h" />
-        <option value="$PROJECT_DIR$/AssetManager.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/data/ShapeLibraryItem.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/data/ShapeLibraryItem.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/data/ShapeLibrary.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/data/ShapeLibrary.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/texture/TextureID.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/data/ShapeData.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/debugDraw/DebugStage.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/debugDraw/ShapeListViewer.h" />
-        <option value="$PROJECT_DIR$/Window.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/renderer/ProjectionMatrix.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/debugDraw/ShapeListViewer.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/transport/AtlasExporter.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/lz4/Uncompress.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/TextureSource.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/Bytes.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/TextureSource.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/utils/ByteArray.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/utils/ByteArray.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/geom/TextureTransform.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/geom/Rectangle.cpp" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/geom/Rectangle.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/geom/TextureTransform.h" />
-        <option value="$PROJECT_DIR$/WIthTheBoost/Bytes.cpp" />
-      </list>
-    </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
@@ -290,37 +114,19 @@
     <option name="width" value="1440" />
     <option name="height" value="810" />
   </component>
+  <component name="ProjectId" id="1VXipiXk0ctKwBYEDfsRpFKkeg6" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="swfdrawer" type="1d218c8b:XcodeProjectNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="swfdrawer" type="1d218c8b:XcodeProjectNode" />
-              <item name="src" type="fcab9f18:XcodeViewNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="Cidr.FilesView" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="WIthTheBoost" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -330,18 +136,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/WIthTheBoost" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="swfdrawer" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="swfdrawer" TARGET_NAME="swfdrawer" CONFIG_NAME="Debug" SCHEME_NAME="swfdrawer" IS_LOCATION_SIMULATION_ALLOWED="true" LOCATION_SCENARIO_ID="com.apple.dt.IDEFoundation.CurrentLocationScenarioIdentifier" LOCATION_SCENARIO_TYPE="1" RUN_TARGET_PROJECT_NAME="swfdrawer" RUN_TARGET_NAME="swfdrawer" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
@@ -356,6 +150,18 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -388,11 +194,10 @@
       <workItem from="1576623217318" duration="9000" />
       <workItem from="1576623251099" duration="145000" />
       <workItem from="1576623428807" duration="1386000" />
+      <workItem from="1577406034799" duration="1580000" />
+      <workItem from="1578782781005" duration="93000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143752000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -403,47 +208,14 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.32761088" />
-      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32863188" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.28412256" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32729805" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.32863188" />
-      <window_info anchor="bottom" id="Debug" order="9" visible="true" weight="0.33704737" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" weight="0.32916668" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/WIthTheBoost/assets/AssetsStorage.h</url>
-          <line>28</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="WindowStateProjectService">
+    <state x="564" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1578782782071">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="564" y="290" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1578782782071" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -478,179 +250,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/__tree">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="2130" column="35" selection-start-line="2130" selection-start-column="35" selection-end-line="2130" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/__functional_base">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/renderer/TextureManager.cpp" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/renderer/TextureManager.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/assets/BinaryAsset.cpp" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/assets/BinaryAsset.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/assets/Asset.h" />
-    <entry file="file:///usr/local/include/boost/smart_ptr/shared_ptr.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="733" selection-start-line="733" selection-end-line="733" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/assets/AssetsStorage.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/assets/AssetLoader.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/assets/AssetLoader.cpp" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/assets/AssetsStorage.cpp" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/transport/AtlasExporter.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/utils/ByteArray.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/Bytes.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/debugDraw/DebugStage.h" />
-    <entry file="file://$PROJECT_DIR$/src/AssetManager.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="e#73#99#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AssetManager.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/include/boost/smart_ptr/detail/sp_counted_base_clang.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="105" selection-start-line="105" selection-end-line="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="1052" column="29" selection-start-line="1052" selection-start-column="29" selection-end-line="1052" selection-end-column="29" />
-          <folding>
-            <element signature="e#17694#17713#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/data/ShapeLibraryItem.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/data/ShapeLibraryItem.cpp" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/data/ShapeLibrary.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/data/ShapeLibrary.cpp" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/texture/TextureStorage.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/texture/TextureStorage.cpp" />
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/utility">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="640" column="11" selection-start-line="640" selection-start-column="11" selection-end-line="640" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/data/ShapeData.cpp" />
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/memory">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1804" column="30" selection-start-line="1804" selection-start-column="30" selection-end-line="1804" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/data/ShapeData.h" />
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/string">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="1136" column="22" selection-start-line="1136" selection-start-column="22" selection-end-line="1136" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/debugDraw/DebugStage.cpp" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/Main.cpp" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/debugDraw/ShapeListViewer.h" />
-    <entry file="file:///usr/local/include/glm/ext/matrix_float4x4.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/debugDraw/ShapeListViewer.cpp" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/renderer/ProjectionMatrix.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/renderer/ProjectionMatrix.cpp" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/texture/ITexture.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/texture/TextureID.h" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost.xcodeproj/project.pbxproj" />
-    <entry file="file://$PROJECT_DIR$/WIthTheBoost/transport/AtlasExporter.cpp" />
-    <entry file="file:///usr/local/include/GL/glew.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28950">
-          <caret line="1930" column="8" selection-start-line="1930" selection-start-column="8" selection-end-line="1930" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TextureSource.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oldmain.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-733" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Window.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#61#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Window.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="e#41#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/vector">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="939" column="1" selection-start-line="939" selection-start-column="1" selection-end-line="939" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="appcode.project-settings://ac9f2d4a">
-      <provider selected="true" editor-type-id="AppCode.ProjectSettings" />
-    </entry>
   </component>
 </project>

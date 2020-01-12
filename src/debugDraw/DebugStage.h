@@ -1,9 +1,11 @@
 #ifndef WITHTHEBOOST_DEBUGSTAGE_H
 #define WITHTHEBOOST_DEBUGSTAGE_H
 
-#include "Stage.h"
 #include "ShapeListViewer.h"
-#include "AssetManager.h"
+#include "../display/Stage.h"
+#include "../texture/TextureStorage.h"
+#include "../renderer/TextureManager.h"
+#include "../AssetManager.h"
 
 class DebugStage: public Stage
 {
@@ -19,7 +21,7 @@ protected:
     AssetManager m_assetManager;
     
     ShapeLibrary m_shapeLibrary;
-    ShapeListViewer m_shapeListViewer;
+    ShapeListViewer m_shapeListViewer = m_shapeLibrary;
 };
 
 

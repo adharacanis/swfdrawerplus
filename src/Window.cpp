@@ -1,4 +1,5 @@
 #include "Window.h"
+#include "windows.h"
 
 #define GLEW_STATIC
 #include "GL/glew.h"
@@ -8,7 +9,6 @@
 #include <fstream>
 
 #include "Bytes.h"
-#include "AtlasExporter.h"
 
 using namespace std;
 
@@ -39,7 +39,14 @@ const GLchar* fragmentShaderSource =
         "}\n\0";
 
 TextureSource<Bytes>* parseFile() {
-    fstream file("bikerUncompress.ani", ios_base::in | ios_base::binary);
+    ifstream file;
+    file.open("bikerUncompress.ani", ios_base::in | ios_base::binary);
+
+    if (!file.is_open())
+    {
+        cout << "cant open file " << endl;
+        return nullptr;
+    }
     
     file.seekg (0, file.end);
     cout << "file stream size: " << file.tellg() << endl;
@@ -214,6 +221,10 @@ int Window::initialize()
 
 // Give the image to OpenGL
     TextureSource<Bytes>* textureSource = parseFile();
+
+    if (textureSource == nullptr)
+        return -1;
+
     std::vector<unsigned char>* pixels = textureSource->getSource()->getData();
     
     
@@ -266,7 +277,9 @@ int Window::initialize()
         // Swap the screen buffers
         glfwSwapBuffers(window);
         
-        usleep(1000000);
+       
+        //Sleep(10000);
+        //usleep(1000000);
     }
     
     // Properly de-allocate all resources once they've outlived their purpose

@@ -1,10 +1,10 @@
 #ifndef WITHTHEBOOST_SHAPELISTVIEWER_H
 #define WITHTHEBOOST_SHAPELISTVIEWER_H
 
-
+#include "../IUpdatable.h"
+#include "../data/ShapeLibrary.h"
 #include <GL/glew.h>
-#include "ShapeLibrary.h"
-#include "IUpdatable.h"
+#include <string>
 
 class ShapeListViewer: public IUpdatable
 {
@@ -15,7 +15,7 @@ public:
     void setupTexture();
     void setupGeometry();
     void setupShader();
-    GLuint compileShader(std::string shaderSource, uint shaderType);
+    GLuint compileShader(std::string shaderSource, GLenum shaderType);
     void update() override;
 
 protected:
